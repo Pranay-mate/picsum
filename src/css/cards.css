@@ -1,0 +1,20 @@
+.Cards h1 span{
+  color: white;
+}
+.CardTitle{
+  text-align: left;
+}
+.CardTitle span{
+  font-weight: bold;
+}
+.myButton{
+  color: #ffff;
+}
+.Cards{
+  padding: 10px 10px 20px;
+  background-color: #a3a3a3;
+
+  background-color: #8a949e;
+background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
